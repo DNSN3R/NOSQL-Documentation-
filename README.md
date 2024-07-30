@@ -1,1 +1,1 @@
-These documents provide in detail knowlegdge on cassandra ,mongo DB , as well as Neo4j .
+These documents provide detailed knowlegdge on cassandra ,mongo DB , as well as Neo4j .
